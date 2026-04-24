@@ -1,4 +1,5 @@
 📊 Retail Business Insights Dashboard
+
 🚀 Project Snapshot
 
 Built an interactive Power BI dashboard to analyze $2.26M in retail sales data, uncover growth opportunities, monitor business performance, and support smarter decision-making through data-driven insights.
