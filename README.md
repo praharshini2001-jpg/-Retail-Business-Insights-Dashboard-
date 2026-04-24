@@ -1,4 +1,4 @@
-📊 Retail Sales Performance & Customer Insights Dashboard
+📊 Retail Business Insights Dashboard
 🚀 Project Snapshot
 
 Built an interactive Power BI dashboard to analyze $2.26M in retail sales data, uncover growth opportunities, monitor business performance, and support smarter decision-making through data-driven insights.
@@ -40,8 +40,9 @@ Retail-Business-Insights-Dashboard/
 │── Retail_Business_Insights_EDA.ipynb
 │── dashboard_preview.png
 
-<img width="1249" height="718" alt="RETAIL BUSINESS INSIGHTS DASHBOARD" src="https://github.com/user-attachments/assets/b3b15345-1fa6-4610-916f-bf9e6c16d66e" />
+<img width="1241" height="690" alt="Retail Business Insights Dashboard" src="https://github.com/user-attachments/assets/8229e8c9-20e5-476e-8154-f392530001b2" />
 
+📈 Visual Insights
 
 📊 KPI Cards – Total Sales, Orders, Customers, Avg Order Value, Products
 📊 Bar Chart – Category-wise Sales Performance
@@ -91,7 +92,6 @@ Use charts and KPIs to understand sales trends, customer behavior, and regional 
 🤝 Contributing
 
 Contributions, suggestions, and improvements are welcome!
-
 Feel free to fork the repository, raise issues, or submit pull requests.
 
 📬 Contact
