@@ -97,7 +97,10 @@ Feel free to fork the repository, raise issues, or submit pull requests.
 
 📬 Contact
 
-👤 Praharshini
+👤 Pandiri Praharshini
+
 📧 Email: praharshini269@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/pandiri-praharshini-24baa1279/
+
 🐙 GitHub: https://github.com/praharshini2001-jpg
